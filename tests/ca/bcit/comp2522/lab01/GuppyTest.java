@@ -222,7 +222,7 @@ class GuppyTest {
     public void zeroAgeInWeeksRemainsZero() {
         Guppy fry = new Guppy("a",
                 "b",
-                -1,
+                0,
                 true,
                 0 ,
                 0.5);
